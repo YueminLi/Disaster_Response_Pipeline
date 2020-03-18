@@ -73,7 +73,7 @@ def tokenize(text):
         
     """
     # remove punctuation and get lower case
-    message = re.sub(r"[^a-zA-Z0-9]", " ", text.lower())
+    text = re.sub(r"[^a-zA-Z0-9]", " ", text.lower())
     
     # tokenize text
     tokens = word_tokenize(text)
@@ -102,7 +102,7 @@ def build_model():
     parameters = {
         'vect__ngram_range': ((1, 1), (1, 2)),
         'clf__estimator__kernel': ['linear', 'rbf', 'poly', 'sigmoid'],
-        'clf__estimator__C': [0.1, 1, 10, 100]
+        'clf__estimator__C': [0.1, 1, 10]
                  }
 
     model = GridSearchCV(pipeline, param_grid=parameters, n_jobs=-1, verbose=10)

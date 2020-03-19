@@ -50,4 +50,4 @@ Yuemin Li
 Github: https://github.com/YueminLi
 
 ## License
-Usage is provided under the [MIT License]. See LICENSE for the full details.
+Usage is provided under the MIT License. See LICENSE for the full details.

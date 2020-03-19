@@ -8,6 +8,7 @@ This project analyzes social networking site messages collected after natural di
 1. Install [Anaconda] (https://www.anaconda.com) if you have not installed it. Otherwise, skip this step.
 2. Update Anaconda by typing `conda update -all` in Anaconda Prompt.
 3. Clone this repository to your local machine using: 
+   
    `$ git clone https://github.com/YueminLi/Disaster_Response_Pipeline.git`.
 4. Delete these two files: `data/DisasterResponse.db` and `models/classifier.pkl`.
 ### Running Steps
@@ -40,7 +41,8 @@ This project analyzes social networking site messages collected after natural di
 - README.md
 
 ## Author
-Yuemin Li Github: https://github.com/YueminLi
+Yuemin Li 
+Github: https://github.com/YueminLi
 
 ## License
 Usage is provided under the [MIT License]. See LICENSE for the full details.

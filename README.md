@@ -5,7 +5,7 @@ This project analyzes social networking site messages collected after natural di
 
 ## Installation
 ### Initial Setup
-1. Install [Anaconda] (https://www.anaconda.com) if you have not installed it. Otherwise, skip this step.
+1. Install [Anaconda](https://www.anaconda.com) if you have not installed it. Otherwise, skip this step.
 2. Update Anaconda by typing `conda update -all` in Anaconda Prompt.
 3. Clone this repository to your local machine using: 
    

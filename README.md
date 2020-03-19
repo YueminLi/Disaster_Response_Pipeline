@@ -1,8 +1,7 @@
 # Disaster_Response_Pipeline
 Udacity Data Scientist Nanodegree Project
 ## Project Motivation
-This project analyzes social networking site messages collected after natural disasters. 
-Its major goal is to build up data processing and classificaton pipeline to facilitate resource allocation process. 
+This project analyzes social networking site messages collected after natural disasters. Its major goal is to build up data processing and classificaton pipeline to facilitate resource allocation process. 
 
 ## Installation
 ### Initial Setup
@@ -12,10 +11,10 @@ Its major goal is to build up data processing and classificaton pipeline to faci
 4. Delete these two files: `data/DisasterResponse.db` and `models/classifier.pkl`.
 ### Running Steps
 1. Run the followihng commands in the project's root directory to set up your database and model.
-  1.1 To run ETL pipeline that cleans data and stores in database:
-      `python data/process_data.py data/disaster_messages.csv data/disaster_categories.csv data/DisasterResponse.db`
-  1.2 To run ML pipeline that trains classifier and saves:
-      `python models/train_classifier.py data/DisasterResponse.db models/classifier.pkl`
+   - To run ETL pipeline that cleans data and stores in database:
+      - `python data/process_data.py data/disaster_messages.csv data/disaster_categories.csv data/DisasterResponse.db`
+   - To run ML pipeline that trains classifier and saves:
+      - `python models/train_classifier.py data/DisasterResponse.db models/classifier.pkl`
 2. Run the following command in the app's directory to run your web app.
     `python run.py`
 3. Go to http://0.0.0.0:3001/
@@ -40,7 +39,7 @@ Its major goal is to build up data processing and classificaton pipeline to faci
 - README.md
 
 ## Author
-Yuemin Li Github: https://github.com/Luna-github
+Yuemin Li Github: https://github.com/YueminLi
 
 ## License
-Usage is provided under the MIT License. See LICENSE for the full details.
+Usage is provided under the [MIT License]. See LICENSE for the full details.

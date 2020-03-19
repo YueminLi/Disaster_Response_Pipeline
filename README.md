@@ -1,4 +1,6 @@
 # Disaster Response Pipeline Project
+Classify Disaster Response Messages
+
 Udacity Data Scientist Nanodegree Project
 ## Project Motivation
 This project analyzes social networking site messages collected after natural disasters. Its major goal is to build up data processing and classificaton pipeline to facilitate resource allocation process. 
@@ -34,8 +36,8 @@ This project analyzes social networking site messages collected after natural di
    - `run.py`: Flask file that runs app
 
 - data
-   - `disaster_categories.csv`: data to process 
-   - `disaster_messages.csv`: data to process
+   - `disaster_categories.csv`: data to process, from [Figure Eight](https://www.figure-eight.com) 
+   - `disaster_messages.csv`: data to process, from [Figure Eight](https://www.figure-eight.com)
    - `process_data.py`: process text data
    - `DisasterResponse.db`: database to save clean data to
 

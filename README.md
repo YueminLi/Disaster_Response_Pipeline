@@ -43,9 +43,9 @@ This project analyzes social networking site messages collected after natural di
    - `train_classifier.py`: train machine learning models
    - `classifier.pkl`: saved model 
 
-- README.md
-
 - LICENSE
+
+- README.md
 
 ## Author
 Yuemin Li 

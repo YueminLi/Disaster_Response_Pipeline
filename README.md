@@ -10,7 +10,9 @@ This project analyzes social networking site messages collected after natural di
 3. Clone this repository to your local machine using: 
    
    `$ git clone https://github.com/YueminLi/Disaster_Response_Pipeline.git`
-4. Delete these two files: `data/DisasterResponse.db` and `models/classifier.pkl`
+4. Delete these two files: 
+
+   `data/DisasterResponse.db` and `models/classifier.pkl`
 ### Running Steps
 1. Run the followihng commands in the project's root directory to set up your database and model.
    - To run ETL pipeline that cleans data and stores in database:

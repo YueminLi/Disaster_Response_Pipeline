@@ -51,7 +51,10 @@ This project analyzes social networking site messages collected after natural di
 
 ## Author
 Yuemin Li 
+
 Github: https://github.com/YueminLi
+
+LinkedIn: https://www.linkedin.com/in/yuemin-li-89166333/
 
 ## License
 Usage is provided under the MIT License. See LICENSE for the full details.

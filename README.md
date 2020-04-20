@@ -3,7 +3,7 @@ Classify Disaster Response Messages
 
 Udacity Data Scientist Nanodegree Project
 ## Project Motivation
-This project analyzes social networking site messages collected after natural disasters. Its major goal is to build up data processing and classificaton pipeline to facilitate resource allocation process. 
+This project analyzes social networking site messages collected after natural disasters. Its major goal is to build up data processing and classification pipeline to facilitate resource allocation process. 
 
 ## Installation
 ### Initial Setup
